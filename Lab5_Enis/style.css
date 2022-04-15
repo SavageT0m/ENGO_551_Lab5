@@ -1,0 +1,28 @@
+body{
+    position: relative;
+
+}
+
+#mapid {
+
+    height:40%; 
+    width: 100%;
+    height: 75vh;
+
+    border-style: solid;
+ 
+  }
+
+
+  .text-box{
+    height: 5vh;
+    width:100%;
+    color:#fff;
+    position:center;
+    top:50%;
+    left:50%;
+    padding: 14px 40px;
+    font-size: 24px;
+    
+    text-align: center;
+  }
